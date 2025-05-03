@@ -1,4 +1,4 @@
-**kotudemo** - femboy anarchist, as i call myself. nixos <img src="https://github.com/user-attachments/assets/5f064ed3-b558-426d-afef-d33940636c9d" width="14"> BDSM furry communtiy member. Currently Im developing **OCHKO** 
+**kotudemo** (aka фурри насвай, рифлёный фимоз, PutinBombaVzryvChechnya, БАЛЕТ-МИНЕТ, Стив Блоуджобс, IVANHUESOS, Hit/ler, 🥪BoЗbMy B РoT 3a 6yTEP6poT🥪, etc etc.) - , as i call myself. nixos <img src="https://github.com/user-attachments/assets/5f064ed3-b558-426d-afef-d33940636c9d" width="14"> BDSM furry communtiy member. Currently Im developing **OCHKO** 
 
 > [!TIP]
 > You can find my hardware of choice [here](https://github.com/kotudemo/kotudemo/blob/main/HW.md)!
