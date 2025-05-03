@@ -1,5 +1,5 @@
 
-<h1 align=center> **PC** </h1>
+<h1 align=center> PC </h1>
 
 | Table | Content |
 | - | - |
