@@ -1,16 +1,16 @@
 
-<h1 align=center> :one: s0mePC-nix  </h1>
+<h1 align=center> :one: PC  </h1>
 
 | Table | Content |
 | - | - |
-| CPU | AMD Ryzen 5 5700X |
-| RAM | G.Skill Trident Z RGB 16x2 (32GB) | 
-| MOBO | Gigabyte B450 Aorus M (rev 1.0) |
-| GPU | AMD Radeon Gigabyte GAMING OC RX 5700XT |
-| COOLER | Jonsbo CR-1000 v2 PRO |
-| DRIVE | Kingston KC3000 1024GB |
-| PSU | Corsair RM850 |
-| CASE | Montech AIR 100 Lite |
+| CPU | Intel Core i5-9600k |
+| RAM | Crucial 16x1 | 
+| MOBO | MSI Z390-A PRO |
+| GPU | NVIDIA GTX 1060 6GB |
+| COOLER | BOX |
+| DRIVE | ADATA XPG GAMMIX S11 Pro 1024GB |
+| PSU | Thermaltake 700W |
+| CASE | Aerocool CS-104 |
 | OS | NixOS Unstable |
 
 <div class="text">
@@ -18,21 +18,6 @@
     basically my main working machine. i kinda regret buying 5700XT, bc i moved to a qhd monitor..
   </p>
 </div>
-
-
-<h1 align=center> :two: s0melapt0p-nix  </h1>
-
-| Table | Content |
-| - | - |
-| CPU | Intel Core i5-2357M  |
-| RAM | Samsung DDR3L SO-DIMM 4x2 (8GB) | 
-| MOBO | Lenovo ThinkPad X220 |
-| GPU | Intel HD Graphics 3000 |
-| COOLER | Plate Design |
-| DRIVE | Cruical BX500 480GB |
-| PSU | - |
-| CASE | Lenovo ThinkPad X220 12.5" |
-| OS | NixOS Unstable |
 
 <div class="text">
   <p>
