@@ -10,3 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kotudemo&show_icons=true&theme=transparent"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotudemo&show_icons=true&layout=compact&theme=transparent"/>
 </p>
+
+![image](https://github.com/user-attachments/assets/715f8dc3-08ab-483b-ad57-cea5449d688a)
+
