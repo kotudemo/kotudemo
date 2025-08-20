@@ -11,7 +11,7 @@
 | DRIVE | ADATA XPG GAMMIX S11 Pro 1024GB |
 | PSU | Thermaltake 700W |
 | CASE | Aerocool CS-104 |
-| OS | NixOS Unstable |
+| OS | Windows 11 IoT Enterprise LTSC |
 
 <h2 align=center> ✨ Devices  </h2>
 
