@@ -6,7 +6,7 @@
 | CPU | Intel Core i5-9600k |
 | RAM | Crucial 16x1 | 
 | MOBO | MSI Z390-A PRO |
-| GPU | NVIDIA GTX 1060 6GB |
+| GPU | AMD Radeon RX 9060 XT 16GB |
 | COOLER | BOX |
 | DRIVE | ADATA XPG GAMMIX S11 Pro 1024GB |
 | PSU | Thermaltake 700W |
